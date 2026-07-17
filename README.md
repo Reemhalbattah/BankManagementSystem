@@ -49,16 +49,6 @@ This project is a Banking Database Management System developed using Oracle SQL 
 
    * Stores customer transaction records including deposits and withdrawals.
 
-## Sample Data
-
-The database includes sample records for:
-
-* 3 Branches
-* 3 Employees
-* 3 Customers
-* 3 Accounts
-* 3 Transactions
-
 ## Security Implementation
 
 Three database users were created:
@@ -124,8 +114,6 @@ Prevents withdrawal transactions when the withdrawal amount exceeds the customer
 * Functions
 
 ## Learning Outcomes
-
-Through this project, the following database concepts were applied:
 
 * Relational database design
 * Primary and foreign key constraints
